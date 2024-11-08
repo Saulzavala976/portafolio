@@ -15,4 +15,8 @@ section{
 h2{
     text-align: center;
 }
-
+.barra{
+    background-color: blue;
+    height: 300px;
+    width: max-content;
+}
